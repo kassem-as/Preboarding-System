@@ -16,10 +16,6 @@ from dotenv import load_dotenv
 
 if "start" not in st.session_state:
     st.session_state.start = 1
-    os.environ["LANGCHAIN_TRACING_V2"] = 'true'
-    os.environ["LANGCHAIN_ENDPOINT"] = "https://api.smith.langchain.com"
-    os.environ["LANGCHAIN_API_KEY"] = "ls__5503692e663d4acaac764ccf25cce896"
-    os.environ["LANGCHAIN_PROJECT"] = "preboarding"
     load_dotenv()
     embeddings = CohereEmbeddings(model="embed-multilingual-v3.0")
 
@@ -27,25 +23,23 @@ def get_vectorstore_from_documents():
     loader = TextLoader("documents\Modulhandbuch.txt", encoding='utf-8')
     document = loader.load()
 
-    # transform document to text
-    text_content = document[0].page_content
-
-    # split the text into chunks
+    # split the document into chunks
     text_splitter = RecursiveCharacterTextSplitter(chunk_size = 700, chunk_overlap = 100)
-    text_chunks = text_splitter.split_text(text_content)
+    text_chunks = text_splitter.split_documents(document)
+    print(len(text_chunks))
 
     # create a vectorstore from the chunks
-    vector_store = FAISS.from_texts(text_chunks, embedding=embeddings)
+    vector_store = FAISS.from_documents(text_chunks, embedding=embeddings)
     vector_store.save_local("vector-store")
     return vector_store
         
 def get_history_aware_retriever():
     llm = OpenAI(model="gpt-3.5-turbo-instruct", temperature = 0)
 
-    compressor = CohereRerank()
+    compressor = CohereRerank(model="rerank-multilingual-v2.0")
 
     compression_retriever = ContextualCompressionRetriever(
-        base_compressor=compressor, base_retriever=st.session_state.vector_store.as_retriever(search_kwargs={"k":6})
+        base_compressor=compressor, base_retriever=st.session_state.vector_store.as_retriever(search_kwargs={"k":10})
     )
 
     prompt = ChatPromptTemplate.from_messages([
@@ -80,7 +74,6 @@ def get_response(user_query, retrieval_chain):
 
 # app config
 st.set_page_config(page_title="Computer Science Preboarding System")
-st.title("Computer Science Preboarding System")
 
 
 # session state

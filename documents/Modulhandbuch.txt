@@ -1590,27 +1590,25 @@ Dauer: 2 Semester
 Studienabschnitt: 3.–4. Semester
 Credits: 15
 Aufwand: 450
-Identisch mit: Modul 2: Markt und Absatz des Modulhandbuchs für den Bachelorstudiengang Wirtschaftswissenschaften
-Modultyp und Verwendbarkeit des Moduls: Wahlpflichtmodul im Bachelorstudiengang Angewandte Informatik, Katalog Wirtschaftswissenschaften
-Zuständige Fakultät: Wirtschaftswissenschaftliche Fakultät
+Modultyp und Verwendbarkeit des Moduls Markt und Absatz: Wahlpflichtmodul im Bachelorstudiengang Angewandte Informatik, Katalog Wirtschaftswissenschaften
+Zuständige Fakultät von Markt und Absatz: Wirtschaftswissenschaftliche Fakultät
+Lehrinhalte von Markt und Absatz: In dem Modul wird der Markt als Erkenntnisobjekt von BWL und VWL eingeführt. Die BWL
+sieht im Markt ein Nachfragepotenzial, das es mit den Instrumenten des Marketings zu
+wecken und zu bedienen gilt. Die VWL begreift den Markt als Institution, die bei funktionierendem Wettbewerb eine effiziente Verwendung knapper Ressourcen verspricht.
+Im Rahmen der Präsentationstechniken wird gemeinsam erarbeitet und erprobt, wie fachbezogene Inhalte in schriftlicher, medialer und persönlicher Form adressatenspezifisch
+aufbereiten und vermittelt werden. 
+Kompetenzen von Markt und Absatz: Am Objekt Markt lernen die Studierenden die spezifischen Erkenntnisinteressen und -
+methoden von BWL und VWL exemplarisch kennen. Ihnen wird vermittelt, die grundlegenden Fragestellungen der zwei Bereiche zu erkennen und Lösungsansätze für typische
+Problemstellungen eigenständig zu erarbeiten. Die Studierenden sind in der Lage, unternehmerische Problemstellungen zu analysieren und für einfache Situationen eigenständige Lösungen zu erarbeiten. Im Rahmen der Präsentationstechnik werden ihnen Schlüsselkompetenzen in Form der Methoden- und Sozialkompetenz vermittelt. Die Studierenden arbeiten das erlernte Wissen zielgruppengerecht auf, um es dann unter Einsatz verschiedener Medien selber zu präsentieren.
+Teilnahmevoraussetzungen von Markt und Absatz: keine.
 Informativer Teil: Struktur des Original-Moduls 
   Elemente:
     (1) Marketing (3 V+Ü, 6LP)
     (2) Markt und Wettbewerb (3 V+Ü, 6LP)
     (3) Präsentationstechnik (2 V+Ü, 3LP)
-  Modulprüfung:
+  Modulprüfung von Markt und Absatz:
     - Benotete Klausurarbeit (90 Minuten) über die Elemente 1 und 2
   Weitere Voraussetzung für den Modulabschluss:
-    - Unbenotete Klausurarbeit (60 Minuten) über das Element 3
-Informativer Teil: Struktur des Original-Moduls 
-  Elemente:
-    (1) Marketing (3 V+Ü, 6LP)
-    (2) Konsumsoziologie (2 V+Ü, 4LP)
-    (3) Markt und Wettbewerb (1 V+Ü, 2LP)
-    (4) Präsentationstechnik (2 V+Ü, 3LP)
-  Modulprüfung:
-    - Benotete Klausurarbeit (90 Minuten) über die Elemente 1, 2 und 3 
-  Studienleistung (notwendig):
     - Unbenotete Klausurarbeit (60 Minuten) über das Element 3
 
 
@@ -1620,9 +1618,16 @@ Studiengang: Bachelorstudiengang Angewandte Informatik
 Studienabschnitt: 4. Semester
 Credits: 7,5
 Aufwand: 225
-Identisch mit: Modul 4a: Rechnungswesen und Finanzen I des Modulhandbuchs für den Bachelorstudiengang Wirtschaftswissenschaften
-Modultyp und Verwendbarkeit des Moduls: Wahlpflichtmodul im Bachelorstudiengang Angewandte Informatik, Katalog Wirtschaftswissenschaften
-Zuständige Fakultät: Wirtschaftswissenschaftliche Fakultät
+Modultyp und Verwendbarkeit des Moduls Rechnungswesen und Finanzen I: Wahlpflichtmodul im Bachelorstudiengang Angewandte Informatik, Katalog Wirtschaftswissenschaften
+Zuständige Fakultät von Rechnungswesen und Finanzen I: Wirtschaftswissenschaftliche Fakultät
+Lehrinhalte von Rechnungswesen und Finanzen I: Auf der Basis kostentheoretischer Grundlagen wird die Abrechnungsstruktur der Kostenund Leistungsrechnung als Vollkostenrechnung auf Istkostenbasis thematisiert. Dabei
+werden die Kostenarten-, Kostenstellen- und Kostenträgerrechnung behandelt. Bilanzierung soll einen grundlegenden Überblick über dieses Teilgebiet des Rechnungswesens
+vermitteln. Zu diesem Zweck werden die rechtlichen Hintergründe und relevanten Rechengrößen erläutert. Der Schwerpunkt liegt auf der Formulierung von Ansatzkriterien
+und der Berücksichtigung verschiedener Bewertungsmaßstäbe, wobei auch auf die Erfordernis einer nicht-finanziellen Berichterstattung zu Nachhaltigkeitsmaßnahmen eingegangen wird.
+Kompetenzen von Rechnungswesen und Finanzen I: Im Bereich Kostenrechnung und Controlling lernen die Studierenden die Abrechnungsstruktur des innerbetrieblichen Rechnungswesens kennen und werden in die Lage versetzt, die Auswirkungen betrieblicher Entscheidungen auf das Betriebsergebnis aufzuzeigen. Ziel der Veranstaltung Bilanzierung ist es, die Studierenden mit der Bilanzierung eines Unternehmens als Werkzeug zu dessen Rechenschaftslegung vertraut zu machen und
+ein Verständnis für die bilanzielle Erfassung von Geschäftsvorfällen zu entwickeln. Insbesondere wird eine Schulung der Studierenden dahingehend angestrebt, den Ansatz und
+die Bewertung von Bilanzgrößen kritisch zu hinterfragen. 
+Teilnahmevoraussetzungen von Rechnungswesen und Finanzen I: keine.
 Informativer Teil: Struktur des Original-Moduls 
   Elemente:
     (1) Bilanzierung, Kostenrechnung und Controlling (4 V+Ü, 7,5LP)
@@ -1636,9 +1641,16 @@ Studiengang: Bachelorstudiengang Angewandte Informatik
 Studienabschnitt: 4. Semester
 Credits: 7,5
 Aufwand: 225
-Identisch mit: Modul 4b: Rechnungswesen und Finanzen II des Modulhandbuchs für den Bachelorstudiengang Wirtschaftswissenschaften
-Modultyp und Verwendbarkeit des Moduls: Wahlpflichtmodul im Bachelorstudiengang Angewandte Informatik, Katalog Wirtschaftswissenschaften
-Zuständige Fakultät: Wirtschaftswissenschaftliche Fakultät
+Modultyp und Verwendbarkeit des Moduls Rechnungswesen und Finanzen II: Wahlpflichtmodul im Bachelorstudiengang Angewandte Informatik, Katalog Wirtschaftswissenschaften
+Zuständige Fakultät von Rechnungswesen und Finanzen II: Wirtschaftswissenschaftliche Fakultät
+Lehrinhalte von Rechnungswesen und Finanzen II: In der Investition werden folgende Konzepte behandelt: Einführung in die Nutzentheorie,
+Fisher Separation, Net Present Value als Entscheidungskriterium, Vor- und Nachteile alternativer Entscheidungskriterien, Einführung in die Realoptionsbewertung und Anwendung. Im Bereich der Finanzierung werden verschiedene Finanzierungsformen und die
+Rolle der Finanzmärkte sowie Finanzintermediäre vorgestellt, Konzepte zu Risiko und
+Rendite auf Kapitalmärkten erläutert und Unternehmensbewertung eingeführt.
+Kompetenzen von Rechnungswesen und Finanzen II: Die Studierenden können in der Investition Budgetprobleme identifizieren und ausgewählte Instrumente zu deren Behebung nutzen. Die Quantifizierung von Resultaten und
+deren Darstellung aus Anwendungsbereichen unter unvollständiger Information werden
+trainiert. In der Finanzierung wird die Ermittlung von Finanzierungskosten unterschiedlicher Quellen, der Einfluss der Kapitalstruktur auf den Unternehmenswert sowie verschiedene Methoden zur Unternehmensbewertung erlernt. 
+Teilnahmevoraussetzungen von Rechnungswesen und Finanzen II: keine.
 Informativer Teil: Struktur des Original-Moduls 
   Elemente:
     (1) Investition und Finanzierung (4 V+Ü, 7,5LP)
@@ -1652,9 +1664,14 @@ Studiengang: Bachelorstudiengang Angewandte Informatik
 Studienabschnitt: 4. Semester
 Credits: 7,5
 Aufwand: 225
-Identisch mit: Modul 5a: Wirtschaftstheorie I des Modulhandbuchs für den Bachelorstudiengang Wirtschaftswissenschaften
-Modultyp und Verwendbarkeit des Moduls: Wahlpflichtmodul im Bachelorstudiengang Angewandte Informatik, Katalog Wirtschaftswissenschaften
-Zuständige Fakultät: Wirtschaftswissenschaftliche Fakultät
+Modultyp und Verwendbarkeit des Moduls Wirtschaftstheorie I: Wahlpflichtmodul im Bachelorstudiengang Angewandte Informatik, Katalog Wirtschaftswissenschaften
+Zuständige Fakultät von Wirtschaftstheorie I: Wirtschaftswissenschaftliche Fakultät
+Lehrinhalte von Wirtschaftstheorie I: Einführung in die Mikroökonomie als die Theorie einzelwirtschaftlichen Verhaltens
+1. Konzeptionelle Einführung, 2. Angebot und Nachfrage, 3. Märkte und Marktgleichgewicht, 4. Nachfragetheorie: Haushalte und Konsumenten, 5. Produktionstheorie, 6. Kosten
+und Kostentheorie, 7. Angebotstheorie: Monopol und vollkommene Konkurrenz, 8. Allgemeines Gleichgewicht
+Kompetenzen von Wirtschaftstheorie I: Die Studierenden erwerben grundlegendes systemisches Wissen über mikroökonomische
+Begrifflichkeiten und die Theorie von Märkten als Instrumente der Güterallokation. 
+Teilnahmevoraussetzungen von Wirtschaftstheorie I: keine.
 Informativer Teil: Struktur des Original-Moduls
   Elemente:
     (1) Mikroökonomie (4 V+Ü, 7,5LP)
@@ -1668,9 +1685,14 @@ Studiengang: Bachelorstudiengang Angewandte Informatik
 Studienabschnitt: 4. Semester
 Credits: 7,5
 Aufwand: 225
-Identisch mit: Modul 5b: Wirtschaftstheorie II des Modulhandbuchs für den Bachelorstudiengang Wirtschaftswissenschaften
-Modultyp und Verwendbarkeit des Moduls: Wahlpflichtmodul im Bachelorstudiengang Angewandte Informatik, Katalog Wirtschaftswissenschaften
-Zuständige Fakultät: Wirtschaftswissenschaftliche Fakultät
+Modultyp und Verwendbarkeit des Moduls Wirtschaftstheorie II: Wahlpflichtmodul im Bachelorstudiengang Angewandte Informatik, Katalog Wirtschaftswissenschaften
+Zuständige Fakultät von Wirtschaftstheorie II: Wirtschaftswissenschaftliche Fakultät
+Lehrinhalte von Wirtschaftstheorie II: Einführung in die Makroökonomie als die Theorie gesamtwirtschaftlichen Verhaltens
+1. Volkswirtschaftliche Gesamtrechnung, 2. Arbeitsmärkte, 3. Intertemporale
+Konsumentscheidung, 4.Steuern und Staat, 5. Kreditmärkte, 6.Wachstum, 7.
+Geld, 8. Konjunkturpolitik, 9. Offene Volkswirtschaften
+Kompetenzen von Wirtschaftstheorie II: Die Studierenden erwerben Wissen über wichtige makroökonomische Größen wie Produktion, Beschäftigung und Preisniveau und lernen einfache theoretische Modelle zur Beschreibung und Analyse ganzer Volkswirtschaften kennen. 
+Teilnahmevoraussetzungen von Wirtschaftstheorie II: keine
 Informativer Teil: Struktur des Original-Moduls
   Elemente:
     (1) Makroökonomie (4 V+Ü, 7,5LP)
@@ -1678,15 +1700,35 @@ Informativer Teil: Struktur des Original-Moduls
     - Benotete Klausurarbeit (90 Minuten)
 
 
-Name des Moduls Planung, Entscheidung und Wertschöpfung
-Englischer Modultitel ???
-Studiengang Bachelorstudiengang Angewandte Informatik
+Name des Moduls: Planung, Entscheidung und Wertschöpfung
+Studiengang: Bachelorstudiengang Angewandte Informatik
 Studienabschnitt 3.–4. Semester
 Credits 15
 Aufwand 450 (120/330)
-Identisch mit Modul 3: Planung, Entscheidung und Wertschöpfung des Modulhandbuchs für den Bachelorstudiengang Wirtschaftswissenschaften
-Modultyp und Verwendbarkeit des Moduls Wahlpflichtmodul im Bachelorstudiengang Angewandte Informatik, Katalog Wirtschaftswissenschaften
-Zuständige Fakultät Wirtschaftswissenschaftliche Fakultät
+Modultyp und Verwendbarkeit des Moduls Planung, Entscheidung und Wertschöpfung: Wahlpflichtmodul im Bachelorstudiengang Angewandte Informatik, Katalog Wirtschaftswissenschaften
+Zuständige Fakultät von Planung, Entscheidung und Wertschöpfung: Wirtschaftswissenschaftliche Fakultät
+Lehrinhalte von Planung, Entscheidung und Wertschöpfung: 1. „Wirtschaften heißt entscheiden“: Die Komplexität technisch-ökonomischer Entscheidungen erzwingt die
+Nutzung methodischer Hilfsmittel zum Finden „guter Entscheidungen“. Die Veranstaltung gibt einen Einblick,
+wie Entscheidungsmodelle als Instrumente der Entscheidungsunterstützung generiert und genutzt werden
+können.
+2. Einführung in die funktionale und aktivitätsanalytische Produktionstheorie sowie in theoretisch fundierte
+quantitative Ansätze zur Planung und Steuerung der Produktion und deren praktische Anwendung.
+3a. Die Veranstaltung „Industrieökonomik“ bietet eine Einführung zu Unternehmensverhalten und -strategien
+in Märkten mit unvollkommenem Wettbewerb. Diese Abweichungen vom vollkommenen Wettbewerb umfassen unter anderem eine Begrenzung der Anzahl von Wettbewerbern, die Existenz von Marktzutrittsbarrieren
+sowie Strategien zur Einschränkung des Wettbewerbs wie z.B. Absprachen. Ziel ist es, die Interaktion zwischen Unternehmen zu analysieren, um das Marktergebnis bezüglich Preis- und Mengensetzung zu bestimmen.
+3b. Basierend auf den zentralen Paradigmen der Wirtschaftsinformatik bietet die Veranstaltung „Digitalisierung“ eine Einführung in den Prozess des digitalen Wandels der Wertschöpfung als Integrationselement zwischen Wirtschaft, Gesellschaft und IT.
+Kompetenzen von Planung, Entscheidung und Wertschöpfung: In der Veranstaltung "Entscheidungsmodelle" erwerben die Studierenden Kenntnisse im Bereich der Modellbildung. Sie erlernen, Modelle für praktische Problemstellungen aufzustellen und zu verwenden. Hierzu wird
+ihnen u.a. vermittelt, wie sich speziell Graphen- und Netzwerkmodelle eignen, eine große Klasse von Praxisproblemen zu analysieren und zu lösen.
+In der Veranstaltung „Produktionswirtschaft“ werden den Studierenden Kenntnisse der theoretischen und
+methodischen Grundlagen der Produktionswirtschaft vermittelt und sie lernen, dieses Wissen zur Analyse und
+wirtschaftlichen Gestaltung von Produktprogramm, Produktionspotential und Produktionsprozess anzuwenden.
+In der Veranstaltung „Industrieökonomik“ wird die Fähigkeit vermittelt, das Verhalten von Unternehmen unter
+verschiedenen Wettbewerbsformen zu verstehen und zu analysieren. Dies bereitet die Studierenden auf die
+Berufspraxis vor, in der Strategien zum Überleben bei bspw. ausgeprägter in- und ausländischer Konkurrenz
+gefunden, festgelegt und verfolgt werden müssen.
+In der Veranstaltung „Digitalisierung“ erwerben Studierende ein grundlegendes Verständnis von Informationssystemen als Treiber der Digitalisierung und lernen, Modelle als Grundlage zur Gestaltung solcher Systeme
+zu verstehen.
+Teilnahmevoraussetzungen von Planung, Entscheidung und Wertschöpfung: keine
 Informativer Teil: Struktur des Original-Moduls
   Elemente
     (1) Entscheidungsmodelle (3 V+Ü, 5,5LP)
@@ -1698,15 +1740,24 @@ Informativer Teil: Struktur des Original-Moduls
     (3) über Element 3: benotete Klausurarbeit (60 Minuten)
 
 
-Name des Moduls Management, Technologie und Innovation I
-Englischer Modultitel ???
-Studiengang Bachelorstudiengang Angewandte Informatik
+Name des Moduls: Management, Technologie und Innovation I
+Studiengang: Bachelorstudiengang Angewandte Informatik
 Studienabschnitt 3.–4. Semester
 Credits 7,5
 Aufwand 225
-Identisch mit Modul 6a: Management, Technologie und Innovation I des Modulhandbuchs für den Bachelorstudiengang Wirtschaftswissenschaften
-Modultyp und Verwendbarkeit des Moduls Wahlpflichtmodul im Bachelorstudiengang Angewandte Informatik, Katalog Wirtschaftswissenschaften
-Zuständige Fakultät Wirtschaftswissenschaftliche Fakultät
+Modultyp und Verwendbarkeit des Moduls Management, Technologie und Innovation I: Wahlpflichtmodul im Bachelorstudiengang Angewandte Informatik, Katalog Wirtschaftswissenschaften
+Zuständige Fakultät von Management, Technologie und Innovation I: Wirtschaftswissenschaftliche Fakultät
+Lehrinhalte von Management, Technologie und Innovation I: Innerhalb dieses Moduls werden zentrale Management-Themen besprochen. Diese beziehen sich auf die grundsätzlichen Richtungsentscheidungen eines gesamten Unternehmens. Konkret werden die Managementfunktionen der Planung, der Organisation, des
+Personals, der Führung und der Kontrolle mit strategischen und operativen Facetten besprochen. In allen fünf Managementfunktionen erfolgt eine Vorstellung der theoretischen
+Grundlagen, ergänzt um praktische aktuelle Anwendungsfelder dieser Theorien. Der Wert
+von Theorien, auch für die praktische Tätigkeit in Managementaufgaben, wird abgeleitet
+und vermittelt. Die Veranstaltung stellt die zentralen „Frameworks“ der Managementund Strategielehre entlang der fünf Managementfunktionen dar. 
+Kompetenzen von Management, Technologie und Innovation I: Die Studierenden erwerben die Fähigkeit, unsicherheitsbehaftete, zukunftsgerichtete
+Aufgaben und Herausforderungen des Managements insbesondere auf strategischer,
+aber auch auf operativer Ebene zu erkennen, strukturiert zu erfassen und zu adressieren.
+Die Studierenden erlangen die Fähigkeit, theoretische Grundgerüste auf konkrete praktische Fragestellungen anzuwenden und dabei die Grenzen und den Nutzen von Theorien
+des Managements zu erkennen. 
+Teilnahmevoraussetzungen von Management, Technologie und Innovation I: keine
 Informativer Teil: Struktur des Original-Moduls
   Elemente
     (1) Management (4 V+Ü, 7,5LP)
@@ -1714,15 +1765,23 @@ Informativer Teil: Struktur des Original-Moduls
     • benotete Klausurarbeit (90 Minuten)
 
 
-Name des Moduls Management, Technologie und Innovation II
-Englischer Modultitel ???
-Studiengang Bachelorstudiengang Angewandte Informatik
+Name des Moduls: Management, Technologie und Innovation II
+Studiengang: Bachelorstudiengang Angewandte Informatik
 Studienabschnitt 3.–4. Semester
 Credits 7,5
 Aufwand 225
-Identisch mit Modul 6b: Management, Technologie und Innovation II des Modulhandbuchs für den Bachelorstudiengang Wirtschaftswissenschaften
-Modultyp und Verwendbarkeit des Moduls Wahlpflichtmodul im Bachelorstudiengang Angewandte Informatik, Katalog Wirtschaftswissenschaften
-Zuständige Fakultät Wirtschaftswissenschaftliche Fakultät
+Modultyp und Verwendbarkeit des Moduls Management, Technologie und Innovation II: Wahlpflichtmodul im Bachelorstudiengang Angewandte Informatik, Katalog Wirtschaftswissenschaften
+Zuständige Fakultät von Management, Technologie und Innovation II: Wirtschaftswissenschaftliche Fakultät
+Lehrinhalte von Management, Technologie und Innovation II: Das Modul führt in die theoretischen und methodischen Grundlagen eines nachhaltigen
+Technologie- und Innovationsmanagements ein. Hierbei werden die grundsätzlichen Managementansätze des Verantwortungsbereichs miteinander in Verbindung gesetzt und in
+den größeren organisatorischen Kontext eingebettet. Der Fokus der Veranstaltung liegt
+hierbei auf den Fähigkeiten, Prozessen und Strukturen, die für die Generierung, Entwicklung und Einführung von Technologien, Innovationen sowie neuen Geschäftsfeldern und
+somit die Sicherung eines langfristigen Wettbewerbsvorteils erforderlich sind.
+Kompetenzen von Management, Technologie und Innovation II: Die Studierenden erlangen im Rahmen der Veranstaltung die Fähigkeit, die grundlegenden
+Prozesse und Aktivitäten eines nachhaltigen Technologie- und Innovationsmanagements
+zu strukturieren und in der Praxis umzusetzen. Darüber hinaus werden die Studierenden
+befähigt, die wesentlichen Instrumente und Tools des Fachbereichs anzuwenden und somit die Entwicklung und Verbesserung des organisatorischen Technologie- und Innovationsmanagement aktiv mitzugestalten.
+Teilnahmevoraussetzungen von Management, Technologie und Innovation II: keine
 Informativer Teil: Struktur des Original-Moduls 
   Elemente
     (1) Technologie- und Innovationsmanagement (4 V+Ü, 7,5LP)
@@ -1730,74 +1789,21 @@ Informativer Teil: Struktur des Original-Moduls
     • benotete Klausurarbeit (90 Minuten)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Modul Name: Studium Fundamentale
+Studiengang: Bachelorstudiengang Informatik
+Turnus: jedes Semester
+Dauer: 1 oder 2 Semester
+Studienabschnitt: 3.–4. Semester
+Credits: 5
+Aufwand: 150 Stunden
+Lehrveranstaltungssprache: deutsch oder englisch
+Lehrinhalte von Studium Fundamentale:
+  - Das Studium Fundamentale zielt darauf ab, Studierende zu befähigen, sich mit Studierenden und Lehrenden anderer Fächer über das eigene Fach, seine Methoden und Probleme zu verständigen und das Eigene im Kontext des Fremden sehen und einordnen zu können. Es werden insbesondere Veranstaltungen angeboten, die allgemein zugängliche Aspekte eines Fachs darstellen, interdisziplinär ausgerichtet sind oder auf eine verstärkte Reflexion des eigenen Fachs abzielen. Es soll Denkanstöße liefern. Der Blick auf andere Fächer wirkt einseitiger, auf die Arbeitswelt eingeengter beruflicher Spezialisierung entgegen.
+Kompetenzen von Studium Fundamentale:
+  - Neben der Erweiterung des eigenen Bildungshorizonts kann es zum Erwerb von Schlüsselkompetenzen kommen, die im Rahmen des eigentlichen Fachstudiums nur eingeschränkt vermittelt werden können. Es soll ein tiefergehendes Verständnis für Problemstellungen, Erkenntnisinteressen und Lösungsansätze des eigenen Fachs und anderer Disziplinen ermöglichen. Nach Abschluss des Moduls sind die Studierenden in der Lage, sich über das andere oder das eigene Fach zu verständigen, über unterschiedliche Sichtweisen zu reflektieren und diese zu würdigen.
+Prüfungen von Studium Fundamentale:
+  - Teilleistungen: je eine unbenotete Teilleistung pro besuchter Veranstaltung. Die Prüfungsform richtet sich nach den Vorgaben der anbietenden Fakultät.
+Teilnahmevoraussetzungen von Studium Fundamentale: –keine–
+Modultyp und Verwendbarkeit des Moduls Studium Fundamentale: Pflichtmodul im Bachelorstudiengang Informatik, Nebenfach Wirtschaftswissenschaften
+Modulbeauftragte/r von Studium Fundamentale: Studiendekan
+Zuständige Fakultät von Studium Fundamentale: Informatik

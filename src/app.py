@@ -21,7 +21,10 @@ if "start" not in st.session_state:
 
 def get_vectorstore_from_documents():
     docs = []
-    for doc in [TextLoader("documents\Modulhandbuch.txt", encoding='utf-8'), TextLoader("documents\Prüfungsordnung.txt", encoding='utf-8')]:
+    for doc in [TextLoader("documents\Modulhandbuch.txt", encoding='utf-8'),
+                TextLoader("documents\Prüfungsordnung.txt", encoding='utf-8'),
+                TextLoader("documents\Extra.txt", encoding='utf-8'),
+                TextLoader("documents\modulenebenfach.txt", encoding='utf-8')]:
         docs.extend(doc.load())
     # texts = [doc.page_content for doc in docs]
     text_splitter = RecursiveCharacterTextSplitter(chunk_size = 900, chunk_overlap = 300)
@@ -48,10 +51,17 @@ def get_history_aware_retriever():
     )
 
     prompt = ChatPromptTemplate.from_messages([
-        MessagesPlaceholder(variable_name="chat_messages"),
-        ("user", "{input}"),
-        ("system", "In the conversation above, the user and the system discuss various topics. When the user asks follow-up questions, they might use pronouns ('it', 'they', 'them') referring back to previously mentioned subjects, or they might ask new, standalone questions that do not require context from earlier in the conversation. Your task is to either: a) replace pronouns with the specific subject or noun previously discussed for clarity, or b) repeat the question as it is if it's a standalone question not requiring modification. Do not answer the question. Focus solely on clarifying the question or repeating it verbatim.")
-    ])
+    MessagesPlaceholder(variable_name="chat_messages"),
+    ("user", "{input}"),
+    ("system", """
+    In the conversation above, the user and the system discuss various topics in either English or German. When the user asks follow-up questions, they might use pronouns ('it', 'they', 'them' in English or 'er', 'sie', 'es', 'ihnen' in German) referring back to previously mentioned subjects, or they might ask new, standalone questions that do not require context from earlier in the conversation. Your task is to:
+     a) Replace pronouns with the specific subject or noun previously discussed for clarity, taking into account the language of the query (English or German), or
+     b) Repeat the question as it is if it's a standalone question not requiring modification, regardless of the language.
+     c) Never answer the question or ask for clarification.
+     DO NOT answer the question or ask for clarification. Focus solely on repeating the question verbatim or modifying it for clarity by replacing pronouns with their specific references in the appropriate language.
+    """)
+])
+
 
     history_aware_retriever = create_history_aware_retriever(llm, compression_retriever, prompt)
     return history_aware_retriever
@@ -60,18 +70,20 @@ def get_stuff_documents_chain():
     llm = ChatOpenAI()
 
     prompt = ChatPromptTemplate.from_messages([
-        ("system", "Answer the user's question based on the below context:\n\n{context}"),
-        MessagesPlaceholder(variable_name="chat_history"),
-        ("user", "{input}"),
-    ])
+    ("system", "Carefully read the provided context below. When the user asks a question, your response should ONLY be based on this context. If the context does not contain information directly relevant to the user's question, you must state that the answer cannot be found in the provided context. Do not infer or assume information not explicitly mentioned in the context.\n\n{context}\n\n"),
+    MessagesPlaceholder(variable_name="chat_history"),
+    ("user", "{input}"),
+])
+
+
 
     stuff_documents_chain = create_stuff_documents_chain(llm, prompt)
     return stuff_documents_chain
 
 def get_response(user_query, retrieval_chain):
     response = retrieval_chain.invoke({
-        "chat_messages": st.session_state.chat_history,
-        "chat_history": st.session_state.chat_history,
+        "chat_messages": st.session_state.chat_history[-5:],
+        "chat_history": st.session_state.chat_history[-5:],
         "input": user_query
     })
 
@@ -98,7 +110,7 @@ with st.sidebar:
 
 if "vector_store" not in st.session_state:
     if os.path.exists('vector-store'):
-        st.session_state.vector_store = FAISS.load_local("vector-store", embeddings)
+        st.session_state.vector_store = FAISS.load_local("vector-store", embeddings, allow_dangerous_deserialization = True)
     else:
         st.session_state.vector_store = get_vectorstore_from_documents()
     
@@ -125,7 +137,7 @@ if user_query is not None and user_query != "":
     with st.chat_message("Human"):
         st.write(user_query)
     
-    response = get_response(user_query, st.session_state.retrieval_chain)
+    response = get_response(user_query + '?', st.session_state.retrieval_chain)
 
     with st.chat_message("AI"):
         st.write(response)

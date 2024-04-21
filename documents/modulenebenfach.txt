@@ -1677,6 +1677,50 @@ Modulbeauftragte/r von Biochemie II: Prof. Dr. Albrecht Wegner
 Zuständige Fakultät von Biochemie II: Medizinische Fakultät der Ruhr-Universität Bochum
 
 
+Module in Nebenfach Chemie: Allgemeine und Anorganische Chemie 1, Anorganische Chemie 2, Organische Chemie für Nebenfach-Studierende, Praktikum Organische Chemie für Nebenfach-Studierende.
+
+
+Module in Nebenfach Elektrotechnik:
+-Pflichtmodule: Grundlagen der Elektrotechnik.
+-Wahlpflichtmodul Signalverarbeitung: Signale und Systeme.
+-Wahlpflichtmodul Energietechnik: Einführung in die Energietechnik für Informatik
+-Wahlmodule Signalverarbeitung: Digitale Signalverarbeitung, Grundlagen der Mechatronik, Halbleiterbauelemente für Informatiker, Nachrichtentechnik, Steuerungs- und Regelungstechnik, Theoretische Elektrotechnik und Grundlagen der Hochfrequenztechnik, Theoretische Grundlagen der Informationstechnik für ETIT.
+-Wahlmodul Energietechnik: Messtechnik und EMV.
+
+
+Module in Nebenfach Logistik:
+-Pflichtmodule: Einführung in die Logistik.
+-Wahlpflichtmodule: Grundlagen der Unternehmenslogistik und des Supply Chain Managements, Materialflusssysteme I, Verkehrslogistik I, Verkehrslogistik II, Verpackungs- Identifizierungs- und Automatisierungstechnik, Warehouse Management Systeme.
+
+
+Module in Nebenfach Maschinenbau:
+-Pflichtmodul: Fertigungslehre.
+-Wahlpflichtmodule: Grundlagen der Werkstofftechnik, Strömungsmechanik, Spanende Fertigungstechnologie I, Umformende Fertigungstechnologie, Fügende Fertigungstechnologie, Kunststoffverarbeitung I, Grundlagen der Simulationstechnik, Modellierungsmethoden für Zerspanprozesse, Simulationsgestützte Prozessanalyse in der spanenden Fertigung, Materialcharakterisierung in der Umformtechnik, Simulation in der Umformtechnik, Strömungsmechanik II.
+
+
+Module in Nebenfach Mathematik:
+-Pflichtmodule: Analysis I, Analysis II, Lineare Algebra I.
+-Wahlpflichtmodule: Optimierung, Lineare Algebra II und Analytische Geometrie, Numerische Mathematik.
+
+
+Module in Nebenfach Physik: Physik A2 (Mechanik, Hydrodynamik), Physik B2 (Elektrizität und Magnetismus, Optik, Atom- und Kernphysik), Experimentelle Übungen für Chemiker Mathematiker und Informatiker.
+
+
+Module in Nebenfach Rehabilitationstechniken: Rehabilitationstechnologie I, Rehabilitationstechnologie II.
+
+
+Module in Nebenfach Statistik:
+-Pflichtmodule: Elementare Wahrscheinlichkeitsrechnung, Schätzen und Testen I, R für Data Scientists.
+
+
+Module in Nebenfach Theoretische Medizin: Anatomie I, Anatomie II, Physiologie I, Physiologie II, Biochemie I, Biochemie II.
+
+
+Module in Nebenfach Wirtschaftswissenschaften:
+-Wahlpflichtmodule: Markt und Absatz, Rechnungswesen und Finanzen I, Rechnungswesen und Finanzen II, Wirtschaftstheorie I, Wirtschaftstheorie II, Planung Entscheidung und Wertschöpfung, Management Technologie und Innovation I, Managements Technologie und Innovation II.
+
+
+
 
 
 
